@@ -1,0 +1,29 @@
+{
+  "name": "restful-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksteinmann131/restful-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ksteinmann131/restful-api/issues"
+  },
+  "homepage": "https://github.com/ksteinmann131/restful-api#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.4"
+  },
+  "devDependencies": {
+    "eslint": "^4.17.0",
+    "eslint-plugin-import": "^2.8.0"
+  }
+}
